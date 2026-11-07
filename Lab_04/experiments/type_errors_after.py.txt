@@ -1,0 +1,13 @@
+from book_domain.models import Author, Book
+from book_domain.repositories import InMemoryRepository
+from book_domain.value_objects import PublicationInfo
+
+book_id: int = 1
+
+
+def total() -> int:
+    return 100
+
+
+repository: InMemoryRepository[Book] = InMemoryRepository()
+repository.add(Book(book_id, "Мойсей", Author(1, "Іван Франко"), PublicationInfo(1905), 80))

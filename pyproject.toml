@@ -20,6 +20,9 @@ book-domain = "book_domain.main:main"
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[tool.setuptools.package-data]
+book_domain = ["py.typed"]
+
 [tool.mypy]
 python_version = "3.11"
 strict = true
