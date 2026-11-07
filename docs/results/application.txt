@@ -1,0 +1,13 @@
+КАТАЛОГ: Каталог: 4 книг
+Кобзар | Тарас Шевченко | 1840 | 240 стор.
+Захар Беркут | Іван Франко | 1883 | 192 стор.
+Мойсей | Іван Франко | 1905 | 80 стор. | epub
+Лісова пісня | Леся Українка | 1911 | 160 стор.
+АВТОР ІВАН ФРАНКО: ['Захар Беркут', 'Мойсей']
+НАЗВА КОБЗАР: ['Кобзар']
+РІК 1911: ['Лісова пісня']
+ЗВІТ: {'count': 4, 'average_pages': 168.0, 'largest_title': 'Кобзар'}
+DUnder len/contains/getitem: 4 True Кобзар
+PROTOCOL: True
+DESIGN EXPERIMENTS: {'hardwired': '[', 'injected': 'FAKE:4', 'inheritance': 'Кобзар | Мойсей', 'composition': 'Кобзар | Мойсей', 'fake_calls': '1'}
+EXPORTED: docs\results\catalog.csv

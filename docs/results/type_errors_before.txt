@@ -1,0 +1,4 @@
+type_errors_demo.py:4: error: Incompatible types in assignment (expression has type "str", variable has type "int")  [assignment]
+type_errors_demo.py:8: error: Incompatible return value type (got "str", expected "int")  [return-value]
+type_errors_demo.py:12: error: Argument 1 to "add" of "InMemoryRepository" has incompatible type "Author"; expected "Book"  [arg-type]
+Found 3 errors in 1 file (checked 1 source file)

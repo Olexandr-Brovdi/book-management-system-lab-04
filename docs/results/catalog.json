@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Кобзар",
+    "author_id": 1,
+    "author_name": "Тарас Шевченко",
+    "year": 1840,
+    "pages": 240,
+    "publisher": "Невідоме видавництво"
+  },
+  {
+    "id": 2,
+    "title": "Захар Беркут",
+    "author_id": 2,
+    "author_name": "Іван Франко",
+    "year": 1883,
+    "pages": 192,
+    "publisher": "Невідоме видавництво"
+  },
+  {
+    "id": 3,
+    "title": "Мойсей",
+    "author_id": 2,
+    "author_name": "Іван Франко",
+    "year": 1905,
+    "pages": 80,
+    "publisher": "Невідоме видавництво",
+    "file_format": "epub"
+  },
+  {
+    "id": 4,
+    "title": "Лісова пісня",
+    "author_id": 3,
+    "author_name": "Леся Українка",
+    "year": 1911,
+    "pages": 160,
+    "publisher": "Навчальне видання"
+  }
+]

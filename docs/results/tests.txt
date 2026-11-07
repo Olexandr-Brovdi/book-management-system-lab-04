@@ -1,0 +1,19 @@
+test_abstract_base (test_domain.DomainTests.test_abstract_base) ... ok
+test_all_variant_operations (test_domain.DomainTests.test_all_variant_operations) ... ok
+test_custom_collection (test_domain.DomainTests.test_custom_collection) ... ok
+test_design_equivalence (test_domain.DomainTests.test_design_equivalence) ... ok
+test_duplicate_preserves_existing (test_domain.DomainTests.test_duplicate_preserves_existing) ... ok
+test_empty_catalogue (test_domain.DomainTests.test_empty_catalogue) ... ok
+test_export_strategies (test_domain.DomainTests.test_export_strategies) ... ok
+test_frozen_value_object (test_domain.DomainTests.test_frozen_value_object) ... ok
+test_generic_author_repository (test_domain.DomainTests.test_generic_author_repository) ... ok
+test_injected_fake_without_inheritance (test_domain.DomainTests.test_injected_fake_without_inheritance) ... ok
+test_property_rejects_invalid_update (test_domain.DomainTests.test_property_rejects_invalid_update) ... ok
+test_runtime_validation (test_domain.DomainTests.test_runtime_validation) ... ok
+test_substitution (test_domain.DomainTests.test_substitution) ... ok
+test_typed_payload_roundtrip (test_domain.DomainTests.test_typed_payload_roundtrip) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK

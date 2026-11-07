@@ -1,0 +1,7 @@
+{
+  "hardwired": "[",
+  "injected": "FAKE:4",
+  "inheritance": "Кобзар | Мойсей",
+  "composition": "Кобзар | Мойсей",
+  "fake_calls": "1"
+}
